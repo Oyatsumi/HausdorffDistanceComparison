@@ -1,0 +1,47 @@
+%%Excelsior JET v11.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global+
+-gui-
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=250
+-inlinetolimit=2000
+-javacommandline:=java -jar -Xmx8g hausdorff.jar 2048
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.jit.disable.resolution -Djet.gc.heaplimit:0 -Djet.gc.ratio:50 -Djet.stack.trace=false
+-main=Hausdorff
+-outputdir=../../Java JET Morphology
+-outputname=hausdorff_jet
+-runarguments=2048
+-saprofmode=JETCPONLY
+-saproftimeout=120
+-stacklimit=900000
+-startupprofile=./hausdorff_jet.startup
+
+
+
+
+!classpathentry ../../Java JET Morphology/hausdorff.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../../Java JET Morphology
+  -pack=none
+  -protect=all
+  -optimize=all
+!end
+
+!module ./hausdorff_jet.usg
+

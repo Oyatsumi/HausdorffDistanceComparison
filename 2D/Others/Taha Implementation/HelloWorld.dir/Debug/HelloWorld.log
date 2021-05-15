@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Teste/Test ITK/src/CMakeLists.txt
+  CMake does not need to re-run because C:\Teste\Test ITK\bin\CMakeFiles\generate.stamp is up-to-date.
+  HelloWorld.cxx
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility(2132): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility(2113) : see declaration of 'std::_Copy_impl'
+          d:\program files\itkaux\modules\core\common\include\itkImportImageContainer.hxx(72) : see reference to function template instantiation '_OutIt std::copy<TElement*,TElement*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=unsigned char *
+  ,            TElement=unsigned char
+  ,            _InIt=unsigned char *
+          ]
+          d:\program files\itkaux\modules\core\common\include\itkImportImageContainer.hxx(60) : while compiling class template member function 'void itk::ImportImageContainer<unsigned __int64,unsigned char>::Reserve(unsigned __int64,const bool)'
+          d:\program files\itkaux\modules\core\common\include\itkImage.hxx(56) : see reference to function template instantiation 'void itk::ImportImageContainer<unsigned __int64,unsigned char>::Reserve(unsigned __int64,const bool)' being compiled
+          d:\program files\itkaux\modules\core\common\include\itkImportImageContainer.hxx(38) : while compiling class template member function 'itk::ImportImageContainer<unsigned __int64,unsigned char>::ImportImageContainer(void)'
+          d:\program files\itkaux\modules\core\common\include\itkImportImageContainer.h(59) : see reference to function template instantiation 'itk::ImportImageContainer<unsigned __int64,unsigned char>::ImportImageContainer(void)' being compiled
+          d:\program files\itkaux\modules\core\common\include\itkImage.h(149) : see reference to class template instantiation 'itk::ImportImageContainer<unsigned __int64,unsigned char>' being compiled
+          C:\Teste\Test ITK\bin\HausdorffDistanceMetric.h(135) : see reference to class template instantiation 'itk::Image<unsigned char,2>' being compiled
+  HelloWorld.vcxproj -> C:\Teste\Test ITK\bin\Debug\HelloWorld.exe

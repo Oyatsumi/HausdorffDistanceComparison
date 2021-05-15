@@ -1,0 +1,157 @@
+# CMake generation dependency list for this directory.
+C:/Teste/Test ITK/src/CMakeLists.txt
+C:/Teste/Test ITK/bin/CMakeFiles/3.6.0-rc3/CMakeSystem.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Teste/Test ITK/bin/CMakeFiles/3.6.0-rc3/CMakeCCompiler.cmake
+C:/Teste/Test ITK/bin/CMakeFiles/3.6.0-rc3/CMakeCXXCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+C:/Teste/Test ITK/bin/CMakeFiles/3.6.0-rc3/CMakeRCCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/ITK Binaries/ITKConfigVersion.cmake
+D:/Program Files/ITK Binaries/ITKConfig.cmake
+D:/Program Files/ITK Binaries/ITKTargets.cmake
+D:/Program Files/ITKAux/CMake/ITKModuleAPI.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDoubleConversion.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKKWIML.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKKWSys.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVNL.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVNLInstantiation.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKCommon.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKFiniteDifference.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageFilterBase.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKCurvatureFlow.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageAdaptors.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKNetlib.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKStatistics.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKTransform.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageFunction.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageGrid.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKAnisotropicSmoothing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKLabelMap.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageCompose.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKMesh.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKZLIB.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKMetaIO.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKSpatialObjects.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageStatistics.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKPath.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageIntensity.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKThresholding.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKConnectedComponents.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKMathematicalMorphology.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKBinaryMathematicalMorphology.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageLabel.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKNarrowBand.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDistanceMap.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKQuadEdgeMesh.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKFastMarching.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOImageBase.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageCompare.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKSmoothing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageGradient.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageSources.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageFeature.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKOptimizers.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKSignedDistanceFunction.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKLevelSets.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKAntiAlias.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKPolynomials.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKBiasCorrection.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKBioCell.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKClassifiers.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKColormap.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKFFT.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKConvolution.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDICOMParser.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDeconvolution.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDeformableMesh.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDenoising.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDiffusionTensorImage.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKDisplacementField.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKEigen.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKExpat.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOXML.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOSpatialObjects.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKRegistrationCommon.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKFEM.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKPDEDeformableRegistration.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKFEMRegistration.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGDCM.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKNIFTI.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGIFTI.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUCommon.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUFiniteDifference.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUAnisotropicSmoothing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUImageFilterBase.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPURegistrationCommon.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUPDEDeformableRegistration.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUSmoothing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKGPUThresholding.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKHDF5.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOBMP.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOBioRad.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOCSV.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOGDCM.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOIPL.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOGE.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOGIPL.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOHDF5.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKJPEG.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOJPEG.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKTIFF.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOTIFF.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOLSM.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOMRC.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOMesh.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOMeta.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIONIFTI.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKNrrdIO.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIONRRD.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKPNG.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOPNG.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIORAW.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOSiemens.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOStimulate.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOTransformBase.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOTransformHDF5.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOTransformInsightLegacy.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOTransformMatlab.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIOVTK.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageFusion.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKImageNoise.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKIntegratedTest.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKKLMRegionGrowing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKLabelVoting.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKLevelSetsv4.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKMarkovRandomFieldsClassifiers.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKOptimizersv4.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKMetricsv4.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKNeuralNetworks.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKQuadEdgeMeshFiltering.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKRegionGrowing.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKRegistrationMethodsv4.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKSpatialFunction.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKTestKernel.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVTK.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVideoCore.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVideoFiltering.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVideoIO.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKVoronoi.cmake
+D:/Program Files/ITK Binaries/lib/cmake/ITK-4.10/Modules/ITKWatersheds.cmake
+D:/Program Files/ITKAux/CMake/UseITK.cmake
+D:/Program Files/ITKAux/CMake/itkImageIOFactoryRegisterManager.h.in
+D:/Program Files/ITKAux/CMake/itkTransformIOFactoryRegisterManager.h.in

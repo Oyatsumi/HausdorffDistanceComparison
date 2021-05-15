@@ -1,0 +1,3 @@
+C:/Teste/Test ITK/bin/CMakeFiles/HelloWorld.dir
+C:/Teste/Test ITK/bin/CMakeFiles/ALL_BUILD.dir
+C:/Teste/Test ITK/bin/CMakeFiles/ZERO_CHECK.dir

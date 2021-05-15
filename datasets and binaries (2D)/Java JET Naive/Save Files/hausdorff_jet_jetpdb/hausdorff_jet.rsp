@@ -1,0 +1,44 @@
+
+-jetcomponent=11.00
+-jetedition=Evaluation
+-vcode=8040
+-sys=C
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.jit.disable.resolution -Djet.gc.heaplimit:0 -Djet.gc.ratio:50 -Djet.stack.trace=false
+-config=ClassPath:*{exe.dir}\hausdorff.jar;.
+-config=JETProfile:8040
+-config=JETProfileName:1.8.0_40
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/erick/Documents/Esteban/GPU - CUDA Disciplina/Implementacoes/Java JET Naive/Save Files/hausdorff_jet_jetpdb/hausdorff_jet.efs
+-config=MainClass:Hausdorff
+-config=StandaloneResources:.
+-config=VersionInfo:jet-1100-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_40; JET update level: 0; CPU architecture: x86
+-name=..\..\Java JET Morphology\hausdorff_jet.exe
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:D:\Program Files\Jet\lib\x86\dummysplash.lib
+D:\Program Files\Jet\lib\x86\startup-exe-normal.zip
+-config=PackagingOptions:dlls=java;awt;zip component_microversions=BC-0
+-ReadLinkInfo=C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\Implementacoes\Java JET Naive\Save Files\hausdorff_jet_jetpdb\reorder.li
+-config=SingleComp:1
+-exp=JR_Loader
+C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\Implementacoes\Java JET Naive\Save Files\hausdorff_jet_jetpdb\obj.zip
+D:\Program Files\Jet\lib\x86\rt.lib
+-config=JETRuntime:
+-EmbeddedFileSys=D:\Program Files\Jet\profile1.8.0_40\develop\lib\x86\rt11008040.efs
+-EmbeddedFileSys=D:\Program Files\Jet\profile1.8.0_40\develop\lib\x86\nativelibs.efs
+-EmbeddedFileSys=D:\Program Files\Jet\profile1.8.0_40\develop\lib\x86\zi.efs
+-config=BootClassPath:*{exe.dir}\xresources.jar
+D:\Program Files\Jet\lib\x86\dialog.res
+D:\Program Files\Jet\lib\x86\aj-rt-lowlevel.zip
+D:\Program Files\Jet\lib\x86\startup-rtdef.zip
+D:\Program Files\Jet\lib\x86\import32.lib
+D:\Program Files\Jet\lib\x86\app.res
+-StrictLinkToDLL
+
+

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Teste/Test ITK/src/CMakeLists.txt
+  CMake does not need to re-run because C:\Teste\Test ITK\bin\CMakeFiles\generate.stamp is up-to-date.
+  HelloWorld.cxx
+  Old.cpp
+  Generating Code...
+  HelloWorld.vcxproj -> C:\Teste\Test ITK\bin\Release\HelloWorld.exe
