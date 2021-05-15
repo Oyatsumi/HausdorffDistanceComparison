@@ -1,0 +1,14 @@
+﻿  
+  C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\hausdorffDistance - 3D (bool)>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\/include" -I../../common/inc -I"C:\Program Files (x86)\OpenCV\build\x64\vc12/../../include" -IC:\Eclipse\C++\ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile  -Xcompiler "/wd 4819" -fmad=true    -use_fast_math -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Ox /Zi  /MT " -o x64/Release/HausdorffDistance.cu.obj "C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\hausdorffDistance - 3D (bool)\HausdorffDistance.cu" -clean 
+  HausdorffDistance.cu
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (x64/Release/) contains files shared from another project (vectorAdd.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Compiling CUDA source file HausdorffDistance.cu...
+  
+  C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\hausdorffDistance - 3D (bool)>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" -gencode=arch=compute_30,code=\"sm_30,compute_30\" -gencode=arch=compute_35,code=\"sm_35,compute_35\" -gencode=arch=compute_37,code=\"sm_37,compute_37\" -gencode=arch=compute_50,code=\"sm_50,compute_50\" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env --cl-version 2013 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\/include" -I../../common/inc -I"C:\Program Files (x86)\OpenCV\build\x64\vc12/../../include" -IC:\Eclipse\C++\ -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile -cudart static -Xcompiler "/wd 4819" -fmad=true    -use_fast_math -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Ox /Zi  /MT " -o x64/Release/HausdorffDistance.cu.obj "C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\hausdorffDistance - 3D (bool)\HausdorffDistance.cu" 
+  HausdorffDistance.cu
+cl : Command line warning D9002: ignoring unknown option '-fmad=false'
+  main.cpp
+     Creating library ./bin/hausdorffDistance.lib and object ./bin/hausdorffDistance.exp
+  Generating code
+  Finished generating code
+  vectorAdd_vs2013.vcxproj -> C:\Users\erick\Documents\Esteban\GPU - CUDA Disciplina\hausdorffDistance - 3D (bool)\./bin/hausdorffDistance.exe
